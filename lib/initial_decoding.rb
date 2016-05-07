@@ -10,16 +10,18 @@ def binary_to_decimal(string)
   digit = string.length
 
   # Start at right
-  array.each do |int|
-    p int
+  array.each_with_index do |int, index|
     if int.to_i == 1
       total += 2 ** (digit-1)
     end
     digit -= 1
+    if index % 100000 == 0
+      p index
+    end
   end
   # start at last digit, i = 0
   # If 1, add 2^1
-  total
+  p total.to_s + " in decimal"
 end
 
 def factors
