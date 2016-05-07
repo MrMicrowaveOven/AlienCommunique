@@ -11,8 +11,9 @@ def binary_to_decimal(string)
 
   # Start at right
   array.each do |int|
-    if int == 1
-      total += 2 ** digit
+    p int
+    if int.to_i == 1
+      total += 2 ** (digit-1)
     end
     digit -= 1
   end
