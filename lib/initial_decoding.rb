@@ -20,3 +20,7 @@ def binary_to_decimal(string)
   # If 1, add 2^1
   total
 end
+
+def factors
+
+end
