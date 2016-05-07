@@ -1,1 +1,2 @@
-require_relative 'lib/initial_decoding.rb'
+require 'lib/initial_decoding.rb'
+require 'get_length.rb'
