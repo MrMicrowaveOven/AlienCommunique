@@ -15,13 +15,14 @@ def binary_to_decimal(string)
       total += 2 ** (digit-1)
     end
     digit -= 1
-    if index % 100000 == 0
-      p index
-    end
+    # if index % 100000 == 0
+    #   p index
+    # end
   end
   # start at last digit, i = 0
   # If 1, add 2^1
-  p total.to_s + " in decimal"
+  total
+  #  + " in decimal"
 end
 
 def factors
