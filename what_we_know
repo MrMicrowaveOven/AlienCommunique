@@ -1,0 +1,11 @@
+The message has length 1902341
+
+The message is divided into 7 bits, each of a height 757 and a width of 2513.
+
+Bit 1: A "vertical line".  Nothing else, possibly to set the height standard.
+
+Bit 2: A list of numbers 1 to 756, one line each.
+
+Bit 3: A list of primes, from the first (2) to the 756th.
+
+Bit 4: 
