@@ -9,5 +9,3 @@ messages.each do |line|
 		puts line
 	end
 end
-
-

@@ -1,14 +1,21 @@
 The message has length 1902341
 
-The message is divided into 7 bits, each of a height 757 and a width of 2513.
+The message is divided into 7 bits, each of a height 757 and a width of 359.
+-Both 757 and 359 are prime.  These are both included in the list of primes in Bit 2.
+--757 is the 133rd prime, 359 is the 72nd prime.
 
 Bit 1: A "vertical line".  Nothing else, possibly to set the height standard.
 
+No dividing line
+
 Bit 2: A list of numbers 1 to 756, one line each.
+
+No dividing line
 
 Bit 3: A list of primes, from the first (2) to the 756th.
 
 Bit 4: A sin curve
+-We figure this represents the wave that the message was sent in.  We compare this to Bit 5 to approximate the size of the alien.
 
 Bit 5: An image of an alien
 
