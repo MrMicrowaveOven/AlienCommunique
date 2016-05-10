@@ -1,3 +1,5 @@
+require_relative 'number_system_tests.rb'
+
 def binary_to_decimal(string)
   # Convert to string if not already
   string = string.to_s
@@ -27,4 +29,13 @@ end
 
 def factors
 
+end
+
+
+def prime_factors(num)
+  primes = []
+  2.upto(Math.sqrt(num).ceil) do |idx|
+    primes << idx if num % idx == 0 && is_prime?(idx)
+  end
+  primes
 end
