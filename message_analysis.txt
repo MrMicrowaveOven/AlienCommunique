@@ -1,26 +1,43 @@
-SPF = smallest prime factor
-
 Between primes and sine wave
 
-7098571573036345 -- prime factors: 5, 233, 239
-8784918613173281 -- prime factors: 23, 163, 307, 41243, 185069
+7098571573036345
+prime factors: 			5	233		239
+index in sequence: 		11	51		52
+
+8784918613173281
+prime factors: 			23	163		307		41243	185069
+index in sequence: 		9	38		63
+
 
 Between sine wave and alien
 
-1639301793081743 -- prime factors: 7, 5821, 16883, 2382943
-7906426751855953 -- prime factors: PRIME
+1639301793081743
+prime factors: 			7	5821	16883	2382943
+index in sequence:		4	764
+
+7906426751855953
+prime factors: PRIME
 
 
 Between alien and fleet/satellites
 
-8167758455644845 -- prime factors: 3, 5, 1031, 6521, 80991373
-3431608833270813 -- prime factors: 3, 13, 47
+8167758455644845
+prime factors: 			3	5	1031	6521	80991373
+index in sequence:		2	3	173
+
+3431608833270813
+prime factors: 			3	13	47
+index in sequence:		2	6	15
 
 
 Between fleet/satellites and sideways alien
 
-5988460889036985 -- prime factors: 3, 5, 139
-1963582324945915 -- prime factors: 5, 2087, 134837, 1395557
+5988460889036985
+prime factors: 			3	5	139
+index in sequence:		2	3	34
 
+1963582324945915
+prime factors: 			5	2087	134837	1395557
+index in sequence:		3	315
 
 
