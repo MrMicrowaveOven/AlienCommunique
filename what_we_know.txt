@@ -14,7 +14,7 @@ No dividing line
 
 Bit 3: A list of primes, from the first (2) to the 756th.
 
-Bit 4: A sin curve
+Bit 4: A sine curve
 -We figure this represents the wave that the message was sent in.  We compare this to Bit 5 to approximate the size of the alien.
 
 Bit 5: An image of an alien
