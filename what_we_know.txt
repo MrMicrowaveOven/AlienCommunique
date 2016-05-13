@@ -23,4 +23,5 @@ Bit 6: An image of spaceships/satellites
 
 Bit 7: An image of an alien sideways next to a planet, followed by other planets
 
-There are spaces in between
+There are spaces in-between bits, each with a binary sequence.  We are in the process of interpreting those now.
+-Converted to decimal, as well as reversed and converted (matching the numbering system from Bit 2).
