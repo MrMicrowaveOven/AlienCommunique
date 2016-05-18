@@ -5,9 +5,10 @@ def full_test
 
   # Find when counting ends
   end_of_counting = test_for_numericals(number_array)
+
   # Primes is the bit after that.
   primes = number_array[end_of_counting..-1]
-  # p primes
+
   # Test for primes with all of them
   test_for_primes(primes)
 end
