@@ -1,4 +1,4 @@
-message = File.readlines '../SETI_message.txt'
+message = File.readlines '../SETI_message.txt' 
 
 translation = File.open("translation.txt", "w")
 

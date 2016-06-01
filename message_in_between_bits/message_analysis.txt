@@ -8,6 +8,9 @@ index in sequence: 		11	51		52
 prime factors: 			23	163		307		41243	185069
 index in sequence: 		9	38		63
 
+4.73e+17 meters
+50 * 365.25 days / year * 24 hours / day * 3600 seconds / hour * 452129190 1/seconds
+--> 7.134e17 light-years / year
 
 Between sine wave and alien
 
@@ -39,5 +42,3 @@ index in sequence:		2	3	34
 1963582324945915
 prime factors: 			5	2087	134837	1395557
 index in sequence:		3	315
-
-

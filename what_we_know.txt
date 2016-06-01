@@ -19,6 +19,10 @@ Bit 4: A sine curve
 
 Bit 5: An image of an alien
 
+Height: ~ 1.32 meters
+Age:?
+452129190 Hz signal
+
 Bit 6: An image of spaceships/satellites
 
 Bit 7: An image of an alien sideways next to a planet, followed by other planets
