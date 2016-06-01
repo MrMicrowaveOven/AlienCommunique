@@ -1,14 +1,16 @@
-wave1 = 16368191637088910834159098202685440.0
-wave2 = 11677159761321922952849403009790256654968431476473856.0
+require_relative '../helper_methods/number_system.rb'
 
-alien1 = 60479561273104168652304174731493376.0
-alien2 = 42037775140758923161949049149211273119409177427443712.0
+wave1 = convert_binary_from_file(2272).to_f
+wave2 = convert_binary_from_file(2273).to_f
 
-antena1 = 2468553521351190513386359178720371015680.0
-antena2 = 2335431952264384665006648365913340213606881670994067456.0
+alien1 = convert_binary_from_file(3029).to_f
+alien2 = convert_binary_from_file(3030).to_f
 
-planets1 = 948909505053876287754040784031183263414353920.0
-planets2 = 1401259171358630776572575392119740616658474880694279974420480.0
+antena1 = convert_binary_from_file(3786).to_f
+antena2 = convert_binary_from_file(3787).to_f
+
+planets1 = convert_binary_from_file(4543).to_f
+planets2 = convert_binary_from_file(4544).to_f
 
 frequency = 452129190.0
 wavelength = 0.6630681332474906
@@ -30,6 +32,7 @@ def analysis(info)
   return_info[:antena_size] = antena_size.to_s + " meters"
   return_info[:transmitting_time] = transmitting_time.to_s + " years"
   return_info[:system_age] = system_age_b_years.to_s + " billion years"
+
 
   return return_info
 end

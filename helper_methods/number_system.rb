@@ -10,6 +10,11 @@ def get_number_array
 
 end
 
+def convert_binary_from_file(line)
+  translation = File.readlines '../image_files/translation.txt'
+  return convert_binary(translation[line - 1])
+end
+
 def convert_binary(line)
   number = 0
   iterator = 0
