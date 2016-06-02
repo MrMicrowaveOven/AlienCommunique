@@ -1,5 +1,5 @@
 def get_number_array
-  message = File.readlines 'number_system.txt'
+  message = File.readlines '../number_system_before_images/number_system.txt'
   numbers = []
 
   message.each do |line|
