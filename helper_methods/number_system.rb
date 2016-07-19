@@ -49,10 +49,3 @@ def convert_binary_num(bin_num)
 
   return info
 end
-
-
-
-
-
-
-    #
