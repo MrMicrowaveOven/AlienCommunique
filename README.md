@@ -110,6 +110,7 @@ The numbers below the satellites are the size of the devices they used to submit
 The numbers below the planets are the size of their planet (distance), and the age of their stellar system (time).
 
 This allowed us to answer the following questions:
+
 1. What is the typical body height of our interstellar counterparts?  2.45m
 
 2. What is their typical lifetime?  180 years
