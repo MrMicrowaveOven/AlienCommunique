@@ -70,35 +70,19 @@ So we all screamed out of excitement/horror and knew that we were on the right t
 
 In time, we sorted the image into 7 equal-height (757 parts).
 
-1. A "vertical line".  Nothing else, possibly to set the width standard.
+1. A "vertical line".  Nothing else, possibly to set the width standard.  No dividing line afterward.
 
-No dividing line
-
-2. A list of numbers 1 to 756 in binary.  Note that these aliens write binary starting from the right, rather than the left (making 011=6, and so on).  This is probably the result of their anatomy.  We use this system throughout the rest of the decoding process.
-
-No dividing line
+2. A list of numbers 1 to 756 in binary.  Note that these aliens write binary starting from the right, rather than the left (making 011=6, and so on).  This is probably the result of their anatomy.  We use this system throughout the rest of the decoding process.  No dividing line afterward.
 
 3. A list of 756 primes using their binary system.  It begins with the first prime (2) to the 756th (5743).  At first we thought this would be relevant later, but someone pointed out that this is probably just to show a sign of intelligence.
 
-Following the primes is two lines of seemingly-random 1s and 0s.  We now had access to their numbering system, so we recorded this for later.
+4. A sine curve.  We figure this represents the wave that the message was sent in (frequency of 452.12919 MHz).  We initially compared this to the image in #5 to approximate the size of the alien, but this information proved to be incorrect later.  Following the primes is two lines of seemingly-random 1s and 0s.  We now had access to their numbering system, so we recorded this for later.
 
-4. A sine curve.  We figure this represents the wave that the message was sent in (frequency of 452.12919 MHz).  We compare this to the image in #5 to approximate the size of the alien.
+5. An image of an alien.  Height: ~ 1.32 meters when compared to the sine wave, later shown to be incorrect.  More seemingly-random 1s and 0s.
 
-More seemingly-random 1s and 0s.
+6. An image of spaceships/satellites, followed by more seemingly-random 1s and 0s.
 
-5. An image of an alien
-
-Height: ~ 1.32 meters when compared to the sine wave.
-
-More seemingly-random 1s and 0s.
-
-6. An image of spaceships/satellites
-
-More seemingly-random 1s and 0s.
-
-7. An image of an alien sideways next to a planet, followed by other planets.  This is most likely an indication of their home planet being 4th from their sun.
-
-More seemingly-random 1s and 0s.
+7. An image of an alien sideways next to a planet, followed by other planets.  This is most likely an indication of their home planet being 4th from their sun.  More seemingly-random 1s and 0s.
 
 ## The Seemingly-Random 1s and 0s Between Each Section
 
