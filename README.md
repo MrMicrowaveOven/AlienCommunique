@@ -3,9 +3,13 @@
 In the Spring of 2016, 4 Software Engineers from a variety of backgrounds came together to take on a challenge: Let's say an binary message was received from deep space.  How would you go about decoding it?
 
 The 4 Software Engineers?
+
 Benjamin: The Mathematician
+
 Brian: The Engineer
+
 Ksenia: The Biologist
+
 Matt: The, uh, Other Biologist
 
 Together with a buttload of caffeine, they combined their skills somewhere in Petaluma, CA, to answer The Great Questions (see below).  We solved it using a variety of techniques and creativity.   You can find us on the list of successful decoders [here](http://www2.mps.mpg.de/homes/heller/downloads/files/SETI_crackers.txt).
