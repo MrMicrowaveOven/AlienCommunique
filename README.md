@@ -92,9 +92,9 @@ In time, we sorted the image into 7 equal-height (757 parts).
 
 The images correlated to the questions in a strange way.
 
-Sine Curve: Not connected to any questions, possibly sets the constants.
-Alien Body: Connected to Questions 1 and 2
-Spaceships/Satellites: Connected to Questions 3 and 4
+Sine Curve: Not connected to any questions, possibly sets the constants.  
+Alien Body: Connected to Questions 1 and 2  
+Spaceships/Satellites: Connected to Questions 3 and 4  
 Planets: Connected to Questions 5 and 6
 
 We figured there was a possibility that the 2 numbers at the bottom of each image specified something to do with the image.  Maybe the 2 numbers above the Alien Body meant their height and typical lifetime for example.  If this is true then for each pair of numbers, one would be a reference to a certain distance (height), and the other would be a reference to a certain length of time (lifespan).
