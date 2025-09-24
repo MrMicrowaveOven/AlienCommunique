@@ -134,3 +134,10 @@ This allowed us to answer the following questions:
 6. How old is their stellar system?  6 million Earth-years
 
 The height and lifespan seemed reasonable, so we submitted our solutions to Dr. Rene Heller and got a confirmation that evening!  You can find us on the list of successful decoders [here](http://www2.mps.mpg.de/homes/heller/downloads/files/SETI_crackers.txt).
+
+
+<style>
+    code {
+        white-space : pre-wrap !important;
+    }
+</style>
