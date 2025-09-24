@@ -19,7 +19,7 @@ Together with a buttload of caffeine, they combined their skills somewhere in Pe
 
 Here was the challenge we were given.  Just going to copy the prompt verbatim:
 
-```
+<code>
 
 This is a call for a fun scientific challenge.
 
@@ -58,7 +58,7 @@ These are the three hints mentioned in the rules.
 
 3. The image shows 7 pictures or pages. As a sanity check, you will be able to recover the duration of the travel time (50 years) from page 4.
 
-```
+</code>
 
 # Our Solution
 
@@ -134,10 +134,3 @@ This allowed us to answer the following questions:
 6. How old is their stellar system?  6 million Earth-years
 
 The height and lifespan seemed reasonable, so we submitted our solutions to Dr. Rene Heller and got a confirmation that evening!  You can find us on the list of successful decoders [here](http://www2.mps.mpg.de/homes/heller/downloads/files/SETI_crackers.txt).
-
-
-<style>
-    code {
-        white-space : pre-wrap !important;
-    }
-</style>
