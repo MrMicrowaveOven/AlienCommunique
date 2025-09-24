@@ -20,6 +20,7 @@ Together with a buttload of caffeine, they combined their skills somewhere in Pe
 Here was the challenge we were given.  Just going to copy the prompt verbatim:
 
 <code>
+
 This is a call for a fun scientific challenge.
 
 Suppose a telescope on Earth receives a series of pulses from a fixed, unresolved source beyond the solar system. The source is a star about 50 light years from Earth. The pulses are in the form of short/long signals and they are received in a very narrow band around an electromagnetic frequency of 452.12919 MHz. A computer algorithm identifies the artificial nature of the pulses. It turns out the pulses carry a message. The pulses signify binary digits. Suppose further that you were, by whatsoever reason, put in charge of decoding this message.
