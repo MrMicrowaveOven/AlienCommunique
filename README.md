@@ -17,9 +17,9 @@ Together with a buttload of caffeine, they combined their skills somewhere in Pe
 
 # The Challenge Given To Us
 
-Here was the challenge we were given.  Just going to copy the prompt verbatim:
+Here was the challenge we were given.  I'm just going to copy the prompt verbatim:
 
-<code>
+<div style="font-family: Monaspace Neon">
 
 This is a call for a fun scientific challenge.
 
@@ -53,7 +53,7 @@ These are the three hints mentioned in the rules.
 1. The number of bits (0 or 1) is 1902341. This is a product of the prime numbers 7, 359, and 757.
 2. The message is the black/white pixel map of an image.
 3. The image shows 7 pictures or pages. As a sanity check, you will be able to recover the duration of the travel time (50 years) from page 4.
-</code>
+</div>
 
 # Our Solution
 
